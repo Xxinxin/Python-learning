@@ -3,5 +3,5 @@ C:\Users\Xx>     \\默认的打开路径
 C:\Users\Xx>E:     \\输入要更改盘符：
 E:\>     \\更改盘符
 E:\>cd E:\08_Python\test     \\cd 路径
-E:\08_Python\test>hello.py     \\输入要打开的文件
+E:\08_Python\test>hello.py     \\输入要打开的文件（注：文件名称不能有空格）
 hello world
